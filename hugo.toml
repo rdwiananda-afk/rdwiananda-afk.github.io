@@ -9,20 +9,20 @@ theme = 'console'
   animate_typing = true
   accent_color = "#fdda0e" # Warna kuning terminal
 
-[menus]
-  [[menus.main]]
+[[menu]
+  [[menu.main]]
     identifier = "about"
     name = "About"
     url = "/about/"
     weight = 1
 
-  [[menus.main]]
+  [[menu.main]]
     identifier = "posts"
     name = "Posts"
     url = "/posts/"
     weight = 2
 
-  [[menus.main]]
+  [[menu.main]]
     identifier = "photos"
     name = "Photos"
     url = "/photos/"
