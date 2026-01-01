@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>What I&#39;ve Done</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on What I&#39;ve Done</description>
+    <generator>Hugo</generator>
+    <language>id-ID</language>
+    <lastBuildDate>Thu, 01 Jan 2026 13:25:46 +0700</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>firt post apa yang ingin saya tulis</title>
+      <link>http://localhost:1313/posts/halo-dunia/</link>
+      <pubDate>Thu, 01 Jan 2026 13:25:46 +0700</pubDate>
+      <guid>http://localhost:1313/posts/halo-dunia/</guid>
+      <description>&lt;h2 id=&#34;akhirnya-ngeblog&#34;&gt;Akhirnya Ngeblog&lt;/h2&gt; &lt;p&gt;kemana aja gue baru tahu, kalau bisa nulis personal thought dimari lewat Hugo. Hugo 5 tahun lalu yang gue kenal adalah aplikasi isinya kumpulan game santay. gua mencoba untuk menulis apa yang udah gue lalui dibidang gua. ya gua adalah petani.&lt;/p&gt;&#xA;&lt;p&gt;talk is cheap. show me the code. - Linux torvalds&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

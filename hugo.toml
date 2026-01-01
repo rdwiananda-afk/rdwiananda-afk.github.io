@@ -1,0 +1,24 @@
+baseURL = 'https://rdwiananda.github.io/' # Nanti disesuaikan pas deploy
+languageCode = 'id-ID'
+title = "What I've Done"
+theme = 'console'
+
+[params]
+  # Ganti nama user di sini biar keren pas loading
+  console_cursor = "rdwiananda@mac:~$" 
+  animate_typing = true
+  accent_color = "#fdda0e" # Warna kuning terminal
+
+[menus]
+  [[menus.main]]
+    name = "Home"
+    url = "/"
+    weight = 1
+  [[menus.main]]
+    name = "Posts"
+    url = "/posts/"
+    weight = 2
+  [[menus.main]]
+    name = "About"
+    url = "/about/"
+    weight = 3
