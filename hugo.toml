@@ -9,7 +9,7 @@ theme = 'console'
   animate_typing = true
   accent_color = "#fdda0e" # Warna kuning terminal
 
-[[menu]
+[menu]
   [[menu.main]]
     identifier = "about"
     name = "About"
