@@ -1,4 +1,4 @@
-baseURL = 'https://rdwiananda.github.io/' # Nanti disesuaikan pas deploy
+baseURL = 'https://rdwiananda-afk.github.io/' # Nanti disesuaikan pas deploy
 languageCode = 'id-ID'
 title = "What I've Done"
 theme = 'console'
