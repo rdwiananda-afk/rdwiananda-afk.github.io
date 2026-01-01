@@ -13,4 +13,4 @@ Ini koleksi setup meja kerja dan perangkat tempur gua.
 *(Nanti ganti link ini pake foto asli lu)*
 
 ### 2. My Screen
-![Terminal](https://media.giphy.com/media/QuehC7MUIuFXfFPPn/giphy.gif)
+![Terminal](https://media.giphy.com/media/QuehC7MUIuFXfFPPn/giphy.gif)s
