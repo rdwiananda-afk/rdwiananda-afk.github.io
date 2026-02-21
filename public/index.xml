@@ -15,5 +15,19 @@
       <guid>http://localhost:1313/posts/halo-dunia/</guid>
       <description>&lt;h2 id=&#34;akhirnya-ngeblog&#34;&gt;Akhirnya Ngeblog&lt;/h2&gt; &lt;p&gt;kemana aja gue baru tahu, kalau bisa nulis personal thought dimari lewat Hugo. Hugo 5 tahun lalu yang gue kenal adalah aplikasi isinya kumpulan game santay. gua mencoba untuk menulis apa yang udah gue lalui dibidang gua. ya gua adalah petani.&lt;/p&gt;&#xA;&lt;p&gt;talk is cheap. show me the code. - Linux torvalds&lt;/p&gt;</description>
     </item>
+    <item>
+      <title>About Me</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Tue, 21 May 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;h2 id=&#34;rootrdwiananda-whoami&#34;&gt;root@rdwiananda:~$ whoami&lt;/h2&gt; &lt;p&gt;Halo! Gua &lt;strong&gt;Rdwiananda&lt;/strong&gt;, seorang &lt;strong&gt;Security Engineer&lt;/strong&gt; yang hobi ngoprek.&lt;/p&gt;&#xA;&lt;p&gt;Blog ini adalah catatan pribadi gua tentang:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Cybersecurity &amp;amp; Pentesting&lt;/li&gt;&#xA;&lt;li&gt;DevSecOps Journey&lt;/li&gt;&#xA;&lt;li&gt;Home Lab (OpenWrt, Docker, Proxmox)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&amp;ldquo;I hack to learn, and learn to hack.&amp;rdquo;&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;Connect sama gua di &lt;a href=&#34;https://github.com/rdwiananda-afk&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GitHub&lt;/a&gt;  atau &lt;a href=&#34;#&#34;&gt;LinkedIn&lt;/a&gt; .&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>My Gallery</title>
+      <link>http://localhost:1313/photos/</link>
+      <pubDate>Tue, 21 May 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/photos/</guid>
+      <description>&lt;h2 id=&#34;varwwwimages&#34;&gt;/var/www/images&lt;/h2&gt; &lt;p&gt;Ini koleksi setup meja kerja dan perangkat tempur gua.&lt;/p&gt;&#xA;&lt;h3 id=&#34;1-the-home-lab&#34;&gt;1. The Home Lab&lt;/h3&gt; &lt;p&gt;&lt;img src=&#34;https://media.giphy.com/media/L8seULVD//giphy.gif&#34; alt=&#34;Server Rack&#34; class=&#34;img-responsive&#34;&gt; &#xA;&lt;em&gt;(Nanti ganti link ini pake foto asli lu)&lt;/em&gt;&lt;/p&gt;&#xA;&lt;h3 id=&#34;2-my-screen&#34;&gt;2. My Screen&lt;/h3&gt; &lt;p&gt;&lt;img src=&#34;https://media.giphy.com/media/QuehC7MUIuFXfFPPn/giphy.gif&#34; alt=&#34;Terminal&#34; class=&#34;img-responsive&#34;&gt; s&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>
